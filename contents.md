@@ -15,5 +15,5 @@ Et avec un fichier pdf ? [monFichier](file.pdf)
 
 ### Les réducteurs
 [le cours](https://github.com/lemarec/SiteTest/blob/dfbe07455273e55a3c066d87eec22099d779ea1f/BTS_CPI/Technologie/Cours_Les%20r%C3%A9ducteurs.pdf)
-[le cours 2](BTS_CPI\Technologie\Chap_04_Les Réducteurs\Cours_Les réducteurs.pdf)
+[le cours 2](BTS_CPI/Technologie/Chap_04_Les Réducteurs/Cours_Les réducteurs.pdf)
 
