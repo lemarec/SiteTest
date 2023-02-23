@@ -14,5 +14,5 @@ Et avec un fichier pdf ? [monFichier](file.pdf)
 ### Technologie de construction
 
 ### Les réducteurs
-[le cours](\BTS_CPI\Technologie\Cours_Les réducteurs.pdf)
+[le cours](BTS_CPI/Technologie/Cours_Les réducteurs.pdf)
 
