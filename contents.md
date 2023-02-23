@@ -5,5 +5,6 @@ c'est un essai
 ## essai2 
 autre essai
 ## Essai 3
-Encore un autre essai avec un [lien](lien.md) 
+Encore un autre essai avec un [lien](lien.md) qui marche
+Et avec un fichier pdf ? [monFichier](file.pdf)
 
